@@ -1,0 +1,7 @@
+{
+  "name": "Big Bull Fitness",
+  "description": "A premium, high-energy fitness center website featuring modern equipment, recovery facilities, and an AI-powered fitness assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
