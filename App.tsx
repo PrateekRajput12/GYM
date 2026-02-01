@@ -4,7 +4,7 @@ import { HashRouter as Router, Routes, Route, useLocation } from 'react-router-d
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import FloatingActions from './components/FloatingActions';
-import AIChatbot from './components/AIChatbot';
+// import AIChatbot from './components/AIChatbot';
 import Home from './pages/Home';
 import About from './pages/About';
 import Programs from './pages/Programs';
@@ -44,7 +44,7 @@ const App: React.FC = () => {
         </main>
         <Footer />
         <FloatingActions />
-        <AIChatbot />
+        {/* <AIChatbot /> */}
       </div>
     </Router>
   );
